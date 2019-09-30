@@ -40,4 +40,4 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
 
-Link: https://aqueous-retreat-97150.herokuapp.com/
+Link to the [Application Website](https://aqueous-retreat-97150.herokuapp.com/)
